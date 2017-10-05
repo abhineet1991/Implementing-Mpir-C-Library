@@ -1,0 +1,1 @@
+cuberoot.d: ../cuberoot.cpp
